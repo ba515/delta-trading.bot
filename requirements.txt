@@ -1,7 +1,5 @@
-# binance-connector==1.0.0
-
-python-binance>=1.0.19
-pandas>=2.0.0
-numpy>=1.24.0
-ta-lib==0.4.28          # अगर TA-Lib C library इंस्टॉल है तो
-Flask>=3.0.0
+streamlit
+pandas
+plotly
+python-binance
+python-telegram-bot
